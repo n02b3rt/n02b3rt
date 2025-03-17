@@ -32,9 +32,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="50" height="50"/><br>
       <sub><b>Sass</b></sub>
     </td>
-    <td align="center" width="120">
-      &nbsp;
-    </td>
   </tr>
 </table>
 
