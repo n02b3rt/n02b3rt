@@ -2,12 +2,11 @@
 
 # Norbert
 
-**CS Student · Embedded & IoT**  
-Rzeszów, Poland 🇵🇱
-
-</div>
+**CS Student · Embedded & IoT** Rzeszów, Poland 🇵🇱
 
 ---
+
+</div>
 
 ### About me
 
@@ -21,30 +20,39 @@ Currently:
 
 ---
 
-<br />
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/espressif/E7352C" width="50" height="50"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="50" height="50"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/github/ffffff" width="50" height="50"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/homeassistant/18BCF2" width="50" height="50"/>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/espressif/E7352C" width="50" height="50" alt="Espressif" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="50" height="50" alt="Raspberry Pi" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/github/ffffff" width="50" height="50" alt="GitHub" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/homeassistant/18BCF2" width="50" height="50" alt="Home Assistant" />
+    </td>
+  </tr>
+</table>
 
-</div>
-<br/>
+**Protocols / frameworks:** `ESP-IDF` • `Matter` • `Thread / OpenThread` • `MQTT` • `LVGL` • `USB HID` • `SPI` • `I2C` • `UART`
 
-**Protocols / frameworks:** ESP-IDF · Matter · Thread / OpenThread · MQTT · LVGL · USB HID · SPI · I2C · UART
+<br />
 
 ---
+<sub>Bambu A1 Mini · ESP32 everywhere</sub>
 
-<div align="center">
-  <sub>Bambu A1 Mini · ESP32 everywhere</sub>
 </div>
