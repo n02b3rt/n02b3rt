@@ -14,7 +14,7 @@ Third-year Computer Science student. I work on embedded IoT and edge AI — proj
 
 Currently:
 - [**Anty-Brain-FogUR**](https://github.com/Kolo-Naukowe-Informatykow-UR/AntyBrainFogur) — distributed CO₂ monitoring (ESP32 Thread mesh + Matter + Home Assistant)
-- [**DIY Stream DeckUR**](https://github.com/Kolo-Naukowe-Informatykow-UR/DeckUR) — ESP32-S3 as USB HID, MX switches, rotary encoder, ST7789, Python app
+- [**DeckUR**](https://github.com/Kolo-Naukowe-Informatykow-UR/DeckUR) — ESP32-S3 as USB HID, MX switches, rotary encoder, ST7789, Python app
 - **Edge AI** — RPi5 + Hailo-10H, real-time pose detection
 - **Security system** — RPi5 + Hailo-10H, face recognition
 
